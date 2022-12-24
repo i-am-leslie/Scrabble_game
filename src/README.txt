@@ -1,28 +1,10 @@
-SYSC3110 Project, Group 3 Milestone 1 README
+SYSC3110 Project,  README
 Scrabble Game
 
 Roadmap:
 Implemented GUI based version of the Scrabble game
 
-Deliverables:
-	Bag.java  // @author Meyiwa Temile
-	Board.java  // @author Osamudiamen Nwoko, Ejeh Leslie
-	Main.java  // @author Group 3
-	Player.java  // @author Ejeh Leslie
-	AIPlayer.java //@author Osamudiamen Nwoko
-    Rack.java  // @author Ejeh Leslie
-    Square.java  // @author Longjohn Dagogo
-    Tile.java  // @author Meyiwa Temile
-    ScrabbleUML.png  // @author Longjohn Dagogo
-	GameMaster.java  // @author Osamudiamen Nwoko, Meyiwa Temile
-	GameMasterTest.java // @author Ejeh Leslie, Longjohn Dagogo
-	BoardController.java // @author Ejeh Leslie, Osamudiamen Nwoko
-	CommandController.java // @author Ejeh Leslie, Osamudiamen Nwoko
-	ScrabbleView.java // @author Osamudiamen Nwoko, Meyiywa Temile
-	CustomizableController// @author Osamudiamen Nwoko
-	ScrabbleFrame.java // @author Osamudiamen Nwoko, Meyiwa Temile
-	WordList.txt  //@author https://www.mit.edu/~ecprice/wordlist.10000
-	README.txt  // @author Group 3
+
 
 
 Game Rules:
@@ -56,14 +38,7 @@ If you can't come up with a word, select "pass" to skip your turn or "exchange" 
 If you make an illegal move or a wrong word, you will be notified and required to enter a new word and direction of play.
 
 
-Running the jar File:
-1. Extract file content from the jar file.
-2. Create a new folder called "src".
-3. Move the "Audio" and "Graphics" folder in to the "src" folder.
-4. Open your terminal and navigate to the folder containing the extracted files.
-5. Enter "java Main.java" in the terminal.
 
 
 Known Issues:
 - Gameplay takes long to load.
-- AI doesn't work correctly.
